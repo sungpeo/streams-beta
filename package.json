@@ -1,0 +1,12 @@
+{
+  "name": "HelloStreams",
+  "version": "1.0.0",
+  "description": "HelloStreams",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
